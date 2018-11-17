@@ -5,7 +5,7 @@ public class lianxi3 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
      int lo=1;
-     int hi=1; 
+     int hi=1; //initialize lo li 
      String mark;
      
      System.out.println("1:"+lo);
